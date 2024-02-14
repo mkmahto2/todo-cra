@@ -13,7 +13,7 @@ Thanks for all the forks! 💖
 ### To clone this app
 Type this into your terminal
 
-    git clone https://github.com/adelicia-js/todo-cra.git
+    https://github.com/mkmahto2
 
 ### To run this app in dev mode
   
